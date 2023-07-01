@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @UserZan1209
+- I’m @UserZan1209
 - 👀 I’m interested in ... Games, Movies, Tv shows, Digital art and Coding ig
-- 🌱 I’m currently learning ... C# and C++
-- 💞️ I’m looking to collaborate on ... Games 
-- 📫 How to reach me ... 
+- I’m currently learning ... HTML5 / CSS and C++
+- I’m looking to collaborate on ... Gamejams
+- How to reach me ... 
 
 - Discord - Userzen12#6509 (mention you got my username here lol)
 - E-mail - Leastham13@hotmail.com / memento1423@hotmail.com (same for E-mail adress)
