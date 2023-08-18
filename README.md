@@ -1,7 +1,11 @@
-- I’m @UserZan1209
-- 👀 I’m interested in ... Games, Movies, Tv shows, Digital art and Coding ig
+- I’m Luke
+-
+- I’m working toward becoming a gameplay programmer
+-
 - I’m currently learning ... HTML5 / CSS and C++
+-
 - I’m looking to collaborate on ... Gamejams
+-
 - How to reach me ... 
 
 - Discord - Userzen12#6509 (mention you got my username here lol)
